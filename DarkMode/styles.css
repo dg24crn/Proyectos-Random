@@ -1,0 +1,30 @@
+#mainText {
+    text-align: center;
+    margin: 250px auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+#buttonsContainer {
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+#buttonsContainer button {
+    font-size: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border-radius: 10px;
+    background-color: transparent;
+    color: gray;
+}
+
+.darkTheme {
+    color: white;
+    background-color: black;
+}
+
+.lightTheme {
+    color: black;
+    background-color: white;
+}
