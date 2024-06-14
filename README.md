@@ -1,3 +1,3 @@
 # Proyectos Random
 
-## Proyectos sencilos/basicos para practicar.
+Proyectos sencilos/basicos para practicar.
