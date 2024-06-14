@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#counterContainer {
+    justify-content: center;
+    text-align: center;
+    margin-top: 20%;
+}
